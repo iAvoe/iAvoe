@@ -1,4 +1,4 @@
-#### List of OS/distros I've used or got fimiliar with
+#### List of OS/distros I've spent a lot time on or got pretty fimiliar with
  - **Android** 4, 6, 9, 10
  - **Windows** 7, 10
  - **Cisco IOS**
@@ -8,17 +8,12 @@
     - Deployed a high availably website stack for school project, with OpenWRT with true DMZ
     - Libre Office impressivly opened my x264 tutorials correctly, given the complexity and advanced formattings were used inside
  - **Red Hat / RHEL** 7, 8
-    - Kickstart (with enough configurations you may actually clone your RHEL OS with it)
-      - The idea that you could configure things without needing a restart like:
-      - "echo 10.0.1.100 thatmachine>>/etc/hosts", "echo PREFIX=24>>/etc/sysconfig/network-scripts/ifcfg-enp0s3" (network setting)
-      - is kind of mindblowing, whereas Windows Deployment Server is Windows-Server exclusive and clunky for home users
+    - Kickstart
     - nftable
-      - Unintuitive, easy to make configuration mistakess
-      - Configuration file will become unreadable after a year of not looking after it
-    - nmap & nessus scanners
+    - nmap
     - Git server
     - Ansible & its playbook
-    - GPG encryption & decryption
+    - GPG
     - Shells
 
 #### Enterprise networking joke 1, should be decent:

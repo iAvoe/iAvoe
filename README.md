@@ -1,4 +1,4 @@
-#### List of OS/distros I've spent a lot time on or got pretty fimiliar with
+###### List of OS/distros I've spent a lot time on or got pretty fimiliar with
  - **Android** 4, 6, 9, 10
  - **Windows** 7, 10
  - **Cisco IOS**
@@ -16,24 +16,22 @@
     - GPG
     - Shells
 
-#### Enterprise networking joke 1, should be decent:
+###### Enterprise networking joke 1, should be decent:
  1. Separate LANs with VLAN
  2. Implement inter-VLAN routing which puts them back together
- 3. Congratulations, you've achieved NOTHING!!
- - Baldi's Basics distorted scream SFX can be inserted here
+ 3. Congratulations, you've achieved NOTHING
 
-#### Enterprise networking joke 2, should be more than decent:
+###### Enterprise networking joke 2, should be more than decent:
  - The term "high-availability" is basically:
    1. another one (DRBD)
    2. another one (heartbeat)
    3. another one (HSRP)
-   4. annnnd another one (IPMI)  ——DJ Khaled (meme)
- - Using the original meme video is likely to double the fun
+   4. annnnd another one (IPMI)  ——DJ Khaled
 
-#### AAA stands for Authenticaion, Authorization, Accounting... MUST REMEMBER
+###### AAA stands for Authenticaion, Authorization, Accounting... MUST REMEMBER
  - Forgetting this may cause serious disqualification trouble
 
-#### Idea for a DHCP trap security measure:
+###### Idea for a DHCP trap security measure:
  - For extra-secure organizations
  - New device (ID-ed by MAC address occurance counter VS average occurance):
    - Gets assigned to a trap-like address pool
@@ -42,7 +40,7 @@
  - The networking specialist / Operator needs to check the trap address pool at work
  - This idea could turn to be a facepalm, or someone probably would already have it implemented and it's just that me not knowing
 
-#### My Desktop Computer:
+###### My Desktop Computer:
  - Motherboard: *MPG B650 EDGE WIFI* (MS-7E10)
  - Porcessor:   *Ryzen 7 7700X* (PBO -21 OC)
  - CPU cooler:  *Le Grand Macho RT w/ AM5 kit* the oldest possible AM5 cooler

@@ -1,12 +1,9 @@
 #### List of OS/distros I've used or got fimiliar with
  - **Android** 4, 6, 9, 10
  - **Windows** 7, 10
-   - Currently spent the most time in PowerShell ISE & FL Studio 12
-   - Currently Windows is still the only OS that I have made profit with, thanks to CMD & PowerShell
  - **Cisco IOS**
    - Enterprise networking, I've spent more time using it than all non-Android Linux distros combined
  - **Ubuntu** LTS 18.04, 20.04
-    - Usable
     - Tried out Docker, the docker account registration was a tune down
     - Deployed a high availably website stack for school project, with OpenWRT with true DMZ
     - Libre Office impressivly opened my x264 tutorials correctly, given the complexity and advanced formattings were used inside
@@ -22,8 +19,7 @@
     - Git server
     - Ansible & its playbook
     - GPG encryption & decryption
-    - Bash scripts
-      - Created some cool shells
+    - Shells
 
 #### Enterprise networking joke 1, should be decent:
  1. Separate LANs with VLAN

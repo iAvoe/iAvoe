@@ -1,21 +1,29 @@
 ###### List of OS/distros I've spent a lot time on or got pretty fimiliar with
  - **Android** 4, 6, 9, 10
  - **Windows** 7, 10
+   - MS SQL Server
  - **Cisco IOS**
    - Enterprise networking, I've spent more time using it than all non-Android Linux distros combined
  - **Ubuntu** LTS 18.04, 20.04
+    - phpMyAdmin feels better designed than Microsoft IIS
     - Tried out Docker, the docker account registration was a tune down
-    - Deployed a high availably website stack for school project, with OpenWRT with true DMZ
+    - Deployed a high availably website stack for school project
     - Libre Office impressivly opened my x264 tutorials correctly, given the complexity and advanced formattings were used inside
  - **Red Hat / RHEL** 7, 8
+    - Ansible & its playbook
+    - Git server
     - Kickstart
     - nftable
-    - nmap
-    - Git server
-    - Ansible & its playbook
-    - GPG
     - Shells
-
+    - nmap
+    - GPG
+  - **OpenWRT**
+    - QoS perVLAN / SQM load balancing (it works but my home internet is Canadian so I can't tell if it has performance issues)
+    - ACL (not working, no module found, too)
+    - Zone based firewall (ZPF, it works)
+    - NTP to Windows & Ubuntu
+    - True DMZ (yes it works)
+    
 ###### Enterprise networking joke 1, should be decent:
  1. Separate LANs with VLAN
  2. Implement inter-VLAN routing which puts them back together
@@ -26,7 +34,7 @@
    1. another one (DRBD)
    2. another one (heartbeat)
    3. another one (HSRP)
-   4. annnnd another one (IPMI)  ——DJ Khaled
+   4. annnnd another one (IPMI or redundant PSU)  ——DJ Khaled
 
 ###### AAA stands for Authenticaion, Authorization, Accounting... MUST REMEMBER
  - Forgetting this may cause serious disqualification trouble
@@ -61,4 +69,9 @@
  - Controller:  *Microsoft QAU-00021*
  - Keyboard:    *FL eSports wired + Gatreon G Pro 3pin Yellow/Milky + Some scissor-cut foams inside keyboard's body to reduce vib-noises*
 
-   - I've made music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw
+###### Reads:
+  - CVE-2019-3753, CVE-2018-8641, CVE-2019-14615, CVE-2019-1378, CVE-2021-27070, CVE-2021-36945, CVE-2021-42297, CVE-2021-43211
+  - Don't read CVE-2022-31501~31588
+
+
+  - I've made music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw

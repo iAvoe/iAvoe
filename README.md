@@ -2,7 +2,6 @@
  - **Android** 4, 6, 9, 10
  - **Windows** 7, 10
    - Currently spent the most time in PowerShell ISE & FL Studio 12
-   - I've made music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw
    - Currently Windows is still the only OS that I have made profit with, thanks to CMD & PowerShell
  - **Cisco IOS**
    - Enterprise networking, I've spent more time using it than all non-Android Linux distros combined
@@ -72,3 +71,5 @@
  - Mouse:       *G502 Proteus Core*   You can buy replacement for every single part of it on Aliexpress, this means that it will NEVER die and always ready for endless re-try for modifications, and not forget to mention that it supports the lighter G903 mouse wheel, and various grip stickers, extra sleek bottom pads, ZERO-SCREW shell mounting that allows you to open it's shell under 10 seconds with bare hands (after removing the bottom screws once), it is also one of the rare being that comes with a switchable free-rotating wheel, which allows a smooth viewing of massive research papers, code bases, video projects, FL Studio with ease, AND because of it's price drops each year. You don't deny its omnisigmapeakprime ultras the homo-sapien computer industry
  - Controller:  *Microsoft QAU-00021*
  - Keyboard:    *FL eSports wired + Gatreon G Pro 3pin Yellow/Milky + Some scissor-cut foams inside keyboard's body to reduce vib-noises*
+
+   - I've made music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw

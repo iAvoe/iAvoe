@@ -1,4 +1,4 @@
-I can do enterprise networking & security analytic things, video encoding via x264 and x265 (tutorials and tools development), PSScript/Shell/Batch development, and music recomposition via FL Studio
+I can do enterprise networking & security analytic things, video encoding via x264 and x265 (tutorials and tools development), PSScript/Shell/Batch development, music recomposition via FL Studio, and some After Effects, Premiere, PhotoShop for the video & thumbnail part
   - I've made a few dozen music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw
 
 ###### Enterprise networking joke #1:

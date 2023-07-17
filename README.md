@@ -1,41 +1,20 @@
-###### List of OS/distros I've spent a lot time on or got pretty fimiliar with
- - **Android** 4, 6, 9, 10
- - **Windows** 7, 10
-   - MS SQL Server
- - **Cisco IOS**
-   - Enterprise networking, I've spent more time using it than all non-Android Linux distros combined
- - **Ubuntu** LTS 18.04, 20.04
-    - Libre Office impressivly opened my x264 tutorials correctly, given the complexity and advanced formattings were used inside
-    - Tried out Docker, the docker account registration was a tune down
-    - Deployed a high availably website stack for school project
-    - phpMyAdmin feels better designed than Microsoft IIS
- - **Red Hat / RHEL** 7, 8
-    - Wrote a bunch of shells
-    - Ansible & its playbook
-    - Git server, GPG
-    - nftable, nmap
-    - Kickstart
-  - **OpenWRT**
-    - QoS perVLAN / SQM load balancing (it works but my home internet is Canadian so I can't tell if it has performance issues)
-    - ACL (not working, no module found, too)
-    - Zone based firewall (ZPF, it works)
-    - NTP to Windows & Ubuntu
-    - True DMZ (yes it works)
-    
-###### Enterprise networking joke 1, should be decent:
+I can do enterprise networking tasks, video encoding tutorials, PSScript/Shell/Batch development, and music recomposition via FL Studio
+  - I've made a few dozen music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw
+
+###### Enterprise networking joke #1:
  1. Separate LANs with VLAN
  2. Implement inter-VLAN routing which puts them back together
  3. Congratulations, you've achieved NOTHING
 
-###### Enterprise networking joke 2, should be more than decent:
+###### Enterprise networking joke #2:
  - The term "high-availability" is basically:
-   1. another one (DRBD)
-   2. another one (heartbeat)
-   3. another one (HSRP)
-   4. annnnd another one (IPMI or redundant PSU)  ——DJ Khaled
+   1. another one (IPMI or redundant PSU)
+   2. another one (DRBD)
+   3. another one (Heartbeat or any local server redundancy)
+   4. another one (HSRP)
+   5. another one (Cross-Region or cloud disaster recovery backup) ——DJ Khaled
 
 ###### AAA stands for Authenticaion, Authorization, Accounting... MUST REMEMBER
- - Forgetting this may cause serious trouble
 
 ###### Idea for a DHCP trap security measure:
  - For extra-secure organizations
@@ -71,5 +50,27 @@
   - CVE-2019-3753, CVE-2018-8641, CVE-2019-14615, CVE-2019-1378, CVE-2021-27070, CVE-2021-36945, CVE-2021-42297, CVE-2021-43211
   - Don't read CVE-2022-31501~31588
 
-
-  - I've made music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw
+###### List of OS/distros I've spent a lot time on or got pretty fimiliar with
+ - **Android** 4, 6, 9, 10
+ - **Windows** 7, 10
+   - MS SQL Server
+ - **Cisco IOS**
+   - Enterprise networking, I've spent more time using it than all non-Android Linux distros combined
+ - **Ubuntu** LTS 18.04, 20.04
+    - Libre Office impressivly opened my x264 tutorials correctly, given the complexity and advanced formattings were used inside
+    - Tried out Docker, the docker account registration was a tune down
+    - Deployed a high availably website stack for school project
+    - phpMyAdmin feels better designed than Microsoft IIS
+ - **Red Hat / RHEL** 7, 8
+    - Wrote a bunch of shells
+    - Ansible & its playbook
+    - Git server, GPG
+    - nftable, nmap
+    - Kickstart
+  - **OpenWRT**
+    - QoS perVLAN / SQM load balancing (it works but my home internet is Canadian so I can't tell if it has performance issues)
+    - ACL (not working, no module found, too)
+    - Zone based firewall (ZPF, it works)
+    - NTP to Windows & Ubuntu
+    - True DMZ (yes it works)
+ 

@@ -10,9 +10,9 @@ I can do enterprise networking & security analytic things, video encoding via x2
  - The term "high-availability" is basically:
    1. another one (IPMI or redundant PSU)
    2. another one (DRBD)
-   3. another one (Heartbeat or any local server redundancy)
+   3. another one (Heartbeat or local failover)
    4. another one (HSRP)
-   5. another one (Cross-Region or cloud disaster recovery backup) ——DJ Khaled
+   5. annnnd another one (Cross-Region or cloud disaster recovery backup) ——DJ Khaled
 
 ###### AAA stands for Authenticaion, Authorization, Accounting... MUST REMEMBER
 

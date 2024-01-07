@@ -43,7 +43,7 @@ I can do enterprise networking & security analytic things, video encoding via x2
 | GPU:        | *GTX 1070*                     | Sold                                                                                                                                   |
 | GPU:        | *RTX 2070*                     | Sold                                                                                                                                   |
 | GPU:        | *RTX 3070 ti*                  | Sold                                                                                                                                   |
-| GPU:        | *RTX 3080 ti*                  | Bought for video-editing, VFX rendering, running AI filters and gaming, AMD or Intel please support CUDA so I'm not stuck              |
+| GPU:        | *RTX 3080 ti*                  | Bought for video-editing, VFX rendering, running AI filters and gaming, AMD or Intel please support CUDA so I'm not stuck with 1 corp  |
 | PSU:        | *Corsair RM1000x*              | 2nd handed, it was a bad purchase because I realized that I never used over 500W                                                       |
 | Drive:      | *Crucial CT1000P3P*            | NVME 1TB PCIE Gen4 QLC                                                                                                                 |
 | Drive:      | *Crucial MX500SSD*             | SATA 500G                                                                                                                              |

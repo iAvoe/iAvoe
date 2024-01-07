@@ -4,28 +4,6 @@ I can do enterprise networking & security analytic things, video encoding via x2
   - AAA stands for Authenticaion, Authorization, Accounting
   - Currently studying: .NET programming with advanced Windows Forms (via PSScript)
 
-###### Enterprise networking joke #1:
- 1. Separate LANs with VLAN so the LAN splits
- 2. Implement inter-VLAN routing so they reunites
-
-###### Enterprise networking joke #2:
- - The term "high-availability" is basically a DJ Khaled meme:
-   1. another one (IPMI / redundant PSU)
-   2. another one (DRBD)
-   3. another one (Heartbeat / failover)
-   4. another one (HSRP / VRRP)
-   5. another one (ISP Redundancy, Canadians actually needs this)
-   6. an---d another one (Cross-Region or cloud disaster recovery backup)
-
-###### Idea for a DHCP trap security measure:
- - For extra-secure organizations
- - New device (ID-ed by MAC address occurance counter VS average occurance):
-   - Gets assigned to a trap-like address pool
-   - Where ex-ACL (extended access list) blocks most of protocols and access to organization devices
- - This should be a low cost measure that just work without special software or hardware, but some tuning is needed
- - The networking specialist / Operator needs to check the trap address pool at work
- - This idea could turn to be a facepalm, or someone probably would already have it implemented and it's just that me not knowing
-
 ###### Reads:
   - CVE-2019-3753, CVE-2018-8641, CVE-2019-14615, CVE-2019-1378, CVE-2021-27070, CVE-2021-36945, CVE-2021-42297, CVE-2021-43211
 
@@ -49,25 +27,29 @@ I can do enterprise networking & security analytic things, video encoding via x2
   - **OpenWRT**
     - QoS perVLAN / SQM load balancing (it works but my home internet is Canadian so I can't tell if it has performance issues)
     - ACL (not working, no module found, too)
-    - Zone based firewall (ZPF, it works)
+    - Zone Based Firewall (ZPF, it works but I hate this abbreviation which uses the wrong letter)
     - NTP to Windows & Ubuntu
-    - True DMZ
    
 ###### My Desktop Computer:
-| Type        | Model                          | Info                                                                                                                      |
-|-------------|--------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| Motherboard | *MPG B650 EDGE WIFI*           | MS-7E10                                                                                                                   |
-| Porcessor   | *Ryzen 7 7700X*                | PBO -21 OC                                                                                                                |
-| CPU cooler  | *Le Grand Macho RT w/ AM5 kit* | the oldest possible AM5 cooler                                                                                            |
-| Memory:     | *F5-6400J3239G16G*             | 6200MT/s w/ subtiming OC                                                                                                  |
-| Display:    | *LU28R55*                      | Broken, then warranty repaired                                                                                            |
-| GPU:        | *RTX 3070 ti*                  | planning to sell it                                                                                                       |
-| PSU:        | *Corsair RM1000x*              | 2nd handed                                                                                                                |
-| Drive:      | *Crucial CT1000P3P*            | NVME 1TB PCIE Gen4 QLC                                                                                                    |
-| Drive:      | *Crucial MX500SSD*             | SATA 500G                                                                                                                 |
-| Drive:      | *Micron  1100 SATA*            | SATA 2TB second handed                                                                                                    |
-| Drive:      | *Segate  ST4000NE*             | SATA 4TB emergency purchase                                                                                               |
-| Drive:      | *HGST    HUH728080*            | SATA 8TB second handed                                                                                                    |
-| Drive:      | *Segate  ST10000NM*            | SATA 10TB second handed                                                                                                   |
-| Drive:      | *Samsung T5*                   | USBC 500GB                                                                                                                |
-| Mouse:      | *G502 Proteus Core*            | You can buy replacement for every single part of it on Aliexpress, this means it will never die, incredibly high in value |
+| Type        | Model                          | Info                                                                                                                                   |
+|-------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Motherboard | *MPG B650 EDGE WIFI*           | MS-7E10                                                                                                                                |
+| Porcessor   | *Ryzen 7 7700X*                | PBO -21 OC                                                                                                                             |
+| CPU cooler  | *Le Grand Macho RT w/ AM5 kit* | the oldest possible AM5 cooler                                                                                                         |
+| Memory:     | *F5-6400J3239G16G*             | 6200MT/s w/ subtiming OC                                                                                                               |
+| Display:    | *LU28R55*                      | Broken, then warranty repaired, now it has high-pitched coil whine when brightness is low, so I choose to hurt my eye or mind everyday |
+| GPU:        | *GTX 680*                      | Sold                                                                                                                                   |
+| GPU:        | *GTX 970*                      | Sold                                                                                                                                   |
+| GPU:        | *GTX 1070*                     | Sold                                                                                                                                   |
+| GPU:        | *RTX 2070*                     | Sold                                                                                                                                   |
+| GPU:        | *RTX 3070 ti*                  | Sold                                                                                                                                   |
+| GPU:        | *RTX 3080 ti*                  | Bought for video-editing, VFX rendering, running AI filters and gaming, AMD or Intel please support CUDA so I'm not stuck              |
+| PSU:        | *Corsair RM1000x*              | 2nd handed, it was a bad purchase because I realized that I never used over 500W                                                       |
+| Drive:      | *Crucial CT1000P3P*            | NVME 1TB PCIE Gen4 QLC                                                                                                                 |
+| Drive:      | *Crucial MX500SSD*             | SATA 500G                                                                                                                              |
+| Drive:      | *Micron  1100 SATA*            | SATA 2TB second handed                                                                                                                 |
+| Drive:      | *Segate  ST4000NE*             | SATA 4TB emergency purchase                                                                                                            |
+| Drive:      | *HGST    HUH728080*            | SATA 8TB second handed                                                                                                                 |
+| Drive:      | *Segate  ST10000NM*            | SATA 10TB second handed                                                                                                                |
+| Drive:      | *Samsung T5*                   | USBC 500GB                                                                                                                             |
+| Mouse:      | *G502 Proteus Core*            | You can buy replacement for every single part of it on Aliexpress, this means it never dies, incredibly high in value                  |

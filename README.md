@@ -1,5 +1,4 @@
 I can do enterprise networking & security analytic things, video encoding via x264 and x265 (tutorials and tools development), PSScript/Shell/Batch development, music recomposition via FL Studio, and above junior level of After Effects, Premiere, PhotoShop
-  - I've made a few dozen music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw
   - Currently studying: Java programming, HTML + CSS + Javascript + bootstrap + Ajax, Az900 (Cloud Computing) Exam Study, System analysis and design I
 
 ###### List of OSes I've spent a LOT of time with

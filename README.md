@@ -1,11 +1,6 @@
 I can do enterprise networking & security analytic things, video encoding via x264 and x265 (tutorials and tools development), PSScript/Shell/Batch development, music recomposition via FL Studio, and above junior level of After Effects, Premiere, PhotoShop
   - I've made a few dozen music recompositions at https://www.youtube.com/channel/UCfvTs_azeQE-dlFsHMDZhHw
-  - TODO: Implement ACL/QoS speed limit for Windows/iOS updates, it appears that ASUS-Merlin along can't deal with this
-  - AAA stands for Authenticaion, Authorization, Accounting
-  - Currently studying: .NET programming with advanced Windows Forms (via PSScript)
-
-###### Reads:
-  - CVE-2019-3753, CVE-2018-8641, CVE-2019-14615, CVE-2019-1378, CVE-2021-27070, CVE-2021-36945, CVE-2021-42297, CVE-2021-43211
+  - Currently studying: Java programming, HTML + CSS + Javascript + bootstrap + Ajax, Az900 (Cloud Computing) Exam Study, System analysis and design I
 
 ###### List of OSes I've spent a LOT of time with
  - **Android** 4, 6, 9, 10

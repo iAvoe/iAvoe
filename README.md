@@ -1,5 +1,5 @@
 I can manage enterprise networking & analyze security vulnerabilities, perform video encoding that falls within service spec via x264 & x265, using ffmpeg to handle various types of media, do PSScript-Shell-Batch-Python-Java-JS-C#-WinForms development, data analysis via Excel, prettify advanced technical documents that requires algorithm step-by-step explanation, music recomposition via FL Studio, and edit videos After Effects, Premiere, handling complicated PhotoShop projects, repair any electronics by identifing and replacing parts, setup a SOHO work environment from scratch.
-  - Currently studying: Java programming, HTML + CSS + Javascript + bootstrap + Ajax, Az900 (Cloud Computing) Exam Study, System analysis and design I
+- Currently studying: Java, Javascript+SVG+Ajax, Az900 Cloud Computing, System analysis and design
 
 ###### List of OSes I've spent a LOT of time with
  - **Android** 4, 6, 9, 10

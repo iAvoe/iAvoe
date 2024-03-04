@@ -2,7 +2,7 @@ I can manage enterprise networking & analyze security vulnerabilities, perform v
 - Currently studying: Java, Javascript+SVG+Ajax, Az900 Cloud Computing, System analysis and design
 
 ###### List of OSes I've spent a LOT of time with
- - **Android** 4, 6, 9, 10
+ - **Android** 4, 6, 9, 10, 13. (10 is the best version in compatibility and management without root)
  - **Windows** 7, 10
    - MS SQL Server
  - **Cisco IOS**

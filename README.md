@@ -1,4 +1,4 @@
-I can do enterprise networking & security analytic things, video encoding via x264 and x265 (tutorials and tools development), PSScript/Shell/Batch development, music recomposition via FL Studio, and above junior level of After Effects, Premiere, PhotoShop
+I can manage enterprise networking & security analytics, video encoding that falls within service spec via x264 & x265, PSScript-Shell-Batch-Python-Java-JS-C#-WinForms development, data analysis via Excel, prettify advanced technical documents that requires algorithm step-by-step explanation, music recomposition via FL Studio, and edit videos After Effects, Premiere, handling complicated PhotoShop projects, repair any electronics by identifing and replacing parts, setup a SOHO work environment from scratch.
   - Currently studying: Java programming, HTML + CSS + Javascript + bootstrap + Ajax, Az900 (Cloud Computing) Exam Study, System analysis and design I
 
 ###### List of OSes I've spent a LOT of time with

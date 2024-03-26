@@ -57,7 +57,7 @@ Certificates earned:
 | Type        | Model                          | Info                                                                                                                          |
 |-------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Motherboard | *MPG B650 EDGE WIFI*           | MS-7E10                                                                                                                       |
-| Porcessor   | *Ryzen 7 7700X*                | PBO -21 OC                                                                                                                    |
+| Porcessor   | *Ryzen 7 7700X*                | PBO -26 Overclock                                                                                                             |
 | CPU cooler  | *Le Grand Macho RT w/ AM5 kit* | the oldest possible AM5 cooler                                                                                                |
 | Memory:     | *F5-6400J3239G16G*             | 6200MT/s w/ subtiming OC                                                                                                      |
 | Display:    | *LU28R55*                      | Broken,warranty repaired, now it has high-pitched coil whine when brightness is low, I choose to hurt my eye or mind everyday |

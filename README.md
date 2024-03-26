@@ -8,6 +8,7 @@ I could:
 - Manage Youtube account (wrong, I'm not a Youtuber)
 - Develop apps & scripts via Powershell, Shell, Batch, Python, Java, Javascript, C# (Windows Forms)
 - Complete functional and pretty UI designs for technical apps
+- Use MSSQL and MySQL
 - Analyze & visualize data via Excel
 - Prettify advanced technical documents that requires algorithm explanation
 - Repair any electronics by identifing and replacing bad parts

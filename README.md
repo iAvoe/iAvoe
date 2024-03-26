@@ -1,5 +1,28 @@
-I can manage enterprise networking & analyze security vulnerabilities, perform video encoding that falls within service spec via x264 & x265, using ffmpeg to handle various types of media, do PSScript-Shell-Batch-Python-Java-JS-C#-WinForms development, data analysis via Excel, prettify advanced technical documents that requires algorithm step-by-step explanation, music recomposition via FL Studio, and edit videos After Effects, Premiere, handling complicated PhotoShop projects, repair any electronics by identifing and replacing parts, setup a SOHO work environment from scratch.
-- Currently studying: Java, Javascript+SVG+Ajax, Az900 Cloud Computing, System analysis and design
+I could:
+- Manage enterprise networking & analyze security vulnerabilities
+- Build and manage custom based computers, virtual machines, android devices and servers by evaluating use cases
+- Properly handling, editing, encoding multimedia (video, audio, image) files that ensures minimal quality loss
+- Using ffmpeg for various of tasks
+- Music recomposition via FL Studio (mostly in mixing, music theory is a hard nut to crack)
+- Edit videos with After Effects, Premiere, ffmpeg
+- Edit images handling complicated PhotoShop projects
+- Manage Youtube account (wrong, I'm not a Youtuber)
+- Develop apps & scripts via Powershell, Shell, Batch, Python, Java, Javascript, C# (Windows Forms)
+- Complete functional and pretty UI designs for technical apps
+- Analyze & visualize data via Excel
+- Prettify advanced technical documents that requires algorithm explanation
+- Repair any electronics by identifing and replacing bad parts
+- Using hand tools, power tools
+
+Currently studying:
+- Java: polymorphism: inheritance and association, ArrayLists & exception handling
+- Javascript: Ajax web applications
+- Introduction to System analysis and design
+- CABAC encoding
+
+Certificates earned:
+- Network Engineering & Security Analyst advanced diploma
+- Az900 Cloud Computing IT Certificate
 
 ###### List of technical things I've spent a lot of time with
  - **Android** 4, 6, 9, 10, 13. (10 is the best version in compatibility and management without root)

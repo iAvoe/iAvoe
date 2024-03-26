@@ -4,7 +4,7 @@ I could:
 - Properly handling, editing, encoding multimedia (video, audio, image) files that ensures minimal quality loss
 - Using ffmpeg for various of tasks
 - Music recomposition via FL Studio (mostly in mixing, music theory is a hard nut to crack)
-- Edit videos with After Effects, Premiere, ffmpeg, PhotoShop
+- Edit videos with After Effects, Premiere, ffmpeg; edit images with PhotoShop
 - Manage Youtube account (wrong, I'm not a Youtuber)
 - Develop apps & scripts via Powershell, Shell, Batch, Python, Java, Javascript, C# (Windows Forms)
 - Complete functional and pretty UI designs for technical apps

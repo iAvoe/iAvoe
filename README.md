@@ -80,7 +80,7 @@ Certificates earned:
 | Mouse:      | *G502 Proteus Core*            | You can buy replacement for every single part of it on Aliexpress, this means it never dies, incredibly high in value         |
 
 Here is an advanced honey lemon-zest brioche Tangzhong-based 80% hydration sourdough toast bread I've baked:
-- [Advanced honey lemon-zest brioche Tangzhong-based 80% hydration sourdough toast bread](toastbread.jpg)
+- <img src="toastbread.jpg" width=600em alt="advanced honey lemon-zest brioche Tangzhong-based 80% hydration sourdough toast">
 
 Good to know:
 - Many games are developed for monitors in 24" and less, that's why the view angles are so low that causes people nausea (and some only supports up to 1920x1080)

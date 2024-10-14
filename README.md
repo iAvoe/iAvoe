@@ -1,6 +1,6 @@
 I could:
 - Manage enterprise networking & analyze security vulnerabilities
-- Build and manage custom based computers, virtual machines, android devices and servers by evaluating use cases
+- Build and manage custom PCs, virtual machines, android devices and servers with enough budget
 - Properly handling, editing, encoding multimedia (video, audio, image) files that ensures minimal quality loss
 - Using ffmpeg for various of tasks
 - Recompose music via FL Studio (mostly in mixing, music theory is a hard nut to crack)
@@ -16,10 +16,12 @@ I could:
 - Perform rather complicated cooking and baking by following instructions
 
 Currently studying:
-- Java: polymorphism: inheritance and association, ArrayLists & exception handling
-- Javascript: Ajax web applications
-- Introduction to System analysis and design
-- CABAC encoding
+- Java: Data structures & algorithms
+- ReactJS, React
+- Google maps API (Avoid this if you want a night theme, you must set hundreds of color pointers manually)
+- Wordpress
+- ESP32 IoT programming
+- Never or under-explained parameters in text-generation-webui
 
 Certificates earned:
 - Network Engineering & Security Analyst advanced diploma

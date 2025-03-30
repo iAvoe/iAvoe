@@ -1,31 +1,19 @@
 I could:
 - Manage enterprise networking & analyze security vulnerabilities
-- Build and manage custom PCs, virtual machines, android devices and servers with enough budget
-- Properly handling, editing, encoding multimedia (video, audio, image) files that ensures minimal quality loss
-- Using ffmpeg for various of tasks
-- Recompose music via FL Studio (mostly in mixing, music theory is a hard nut to crack)
-- Edit videos with After Effects, Premiere, ffmpeg; edit images with PhotoShop
-- Manage Youtube account (wrong, I'm not a Youtuber)
+- Manage media files with: FL Studio, After Effects, Premiere, PhotoShop, Audition, ffmpeg, x264, x265, svt-av1
 - Develop apps & scripts via Powershell, Shell, Batch, Python, Java, Javascript, C# (Windows Forms)
 - Complete functional and pretty UI designs for technical apps
-- Use MSSQL and MySQL
-- Analyze & visualize data via Excel
-- Prettify advanced technical documents that requires algorithm explanation
-- Repair any electronics by identifing and replacing bad parts
-- Using hand tools, power tools
-- Perform rather complicated cooking and baking by following instructions
-
-Currently studying:
-- Java: Data structures & algorithms
-- ReactJS, React
-- Google maps API (Avoid this if you want a night theme, you must set hundreds of color pointers manually)
-- Wordpress
-- ESP32 IoT programming
-- Never or under-explained parameters in text-generation-webui
+- Database management: mySQL, MSSQL, MongoDB
+- IoT programming: Android Studio (Java, empty views project), ESP32 IoT programming (C++)
+- Web Programming: ReactJS, React, PHP, webAPI
+- Compiling: MSVC, Windows sybsystem for Linux
+- Data analysis: Self taught, not professional, but I have some experience from evaluating video encoding results with a few metrics
+- Repair any electronics and perform rather complicated cooking and baking, as long as there is a guide
+- Build resonably configured custom PCs, virtual machines, android devices and servers
 
 Certificates earned:
-- Network Engineering & Security Analyst advanced diploma
-- Az900 Cloud Computing IT Certificate
+- Mohawk College: Network Engineering & Security Analyst advanced diploma
+- Microsoft: Az900 Cloud Computing IT Certificate
 
 ###### List of technical things I've spent a lot of time with
  - **Android** 4, 6, 9, 10, 13. (10 is the best version in compatibility and management without root)

@@ -16,9 +16,9 @@ I could:
 Game media values by its controls and interactivity. Here is a non-negotiable, fundamental checklist that covers the basic input elements for games.
 All points here are showstopper critical, missing one point means the game is fundamentally broken/unfinished for at least one input type.
 
-| Controller Support        | Requirement                                                                                                                                                | Present (Y/N/-) |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Bounce back mitigation    | The game mitigates joystick bounce back overshoot issue (unintended direction reverse), otherwise the game is totally unplayable be played with controller |                 |
+| Controller Support        | Requirement                                                                                                                                    | Present (Y/N/-) |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Bounce back mitigation    | The game mitigates joystick bounce back overshoot issue (unintended direction reverse), otherwise the game is totally unplayable on controller |                 |
 
 Strongly Recommended, if development time allows:
 - Turn off vibration if the game supports
@@ -55,9 +55,5 @@ Strongly Recommended, if development time allows:
 | Input Buffer / Priority-of-action Mechanic | The game has enemies that prevents player to complete an action (i.e., reloading, rehealing), implements a reasonable input buffer / pre-input context to cache an pending action, or overrides the current blocking action |                 |
 | No Menu Key-blocking                       | No key blocking anywhere in the menu, including menu-animations and startup logos                                                                                                                                           |                 |
 
-Here is an advanced honey lemon-zest brioche Tangzhong-based 80% hydration sourdough toast bread I've baked:
+Here is an advanced honey lemon-zest brioche 80% hydration sourdough toast:
 - <img src="toastbread.jpg" width=600em alt="advanced honey lemon-zest brioche Tangzhong-based 80% hydration sourdough toast">
-
-Good to know:
-- Many games are developed for monitors in 24" and less, that's why the view angles are so low that causes people nausea (and some only supports up to 1920x1080)
-- Buying a larger display means to sacrifice many games you could play in trade off easier work and study

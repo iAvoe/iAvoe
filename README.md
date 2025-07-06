@@ -11,63 +11,49 @@ I could:
 - Repair any electronics and perform rather complicated cooking and baking, as long as there is a guide
 - Build resonably configured custom PCs, virtual machines, android devices and servers
 
-Certificates earned:
-- Mohawk College: Network Engineering & Security Analyst advanced diploma
-- Microsoft: Az900 Cloud Computing IT Certificate
+### Game input control QA
 
-###### List of technical things I've spent a lot of time with
- - **Android** 4, 6, 9, 10, 13. (10 is the best version in compatibility and management without root)
- - **Windows** XP, 7, 10
-   - MS SQL Server
-   - PowerShell
-   - CMD
-   - Adobe After Effects
-   - Adobe Audition
-   - Adobe Premiere
-   - Adove Photoshop
-   - FL Studio
- - **Cisco IOS**
-   - Enterprise networking, I've spent more time using it than all non-Android Linux distros combined
- - **Ubuntu** LTS 18.04, 20.04
-    - Libre Office impressivly opened my x264 tutorials correctly, dispite the complicated style-based formatting and large tables used
-    - Tried out Docker, the docker account registration was a tune down
-    - Deployed a high availably website stack in a DMZ under another OpenWRT's zone
-    - phpMyAdmin (it actually run more smoothly dispite inside an virtual machine than Microsoft IIS on my host PC)
- - **Red Hat / RHEL** 7, 8
-    - Bash shells
-    - Ansible & its playbook
-    - Git server, GPG
-    - nftable, nmap
-    - Kickstart
-  - **OpenWRT**
-    - QoS perVLAN / SQM load balancing (it works but my home internet is Canadian so I can't tell if it has performance issues)
-    - ACL (not working, no module found, too)
-    - Zone Based Firewall (ZPF, it works but I hate this abbreviation which uses the wrong letter)
-    - NTP to Windows & Ubuntu
-   
-###### My Desktop Computer:
-| Type        | Model                          | Info                                                                                                                          |
-|-------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Motherboard | *MPG B650 EDGE WIFI*           | MS-7E10                                                                                                                       |
-| Porcessor   | *Ryzen 7 7700X*                | PBO -26 Overclock                                                                                                             |
-| CPU cooler  | *Le Grand Macho RT w/ AM5 kit* | the oldest possible AM5 cooler                                                                                                |
-| Memory:     | *F5-6400J3239G16G*             | 6200MT/s w/ subtiming OC                                                                                                      |
-| Display:    | *LU28R55*                      | Broken,warranty repaired, now it has high-pitched coil whine when brightness is low, I choose to hurt my eye or mind everyday |
-| GPU:        | *GTX 680*                      | Sold                                                                                                                          |
-| GPU:        | *GTX 970*                      | Sold                                                                                                                          |
-| GPU:        | *GTX 1070*                     | Sold                                                                                                                          |
-| GPU:        | *RTX 2070*                     | Sold                                                                                                                          |
-| GPU:        | *RTX 3070 ti*                  | Sold                                                                                                                          |
-| GPU:        | *RTX 3080 ti*                  | Bought for video-editing, VFX rendering, running AI filters and gaming, (AMD or Intel please support CUDA)                    |
-| PSU:        | *Corsair RM1000x*              | 2nd handed, it was a bad purchase because I realized that I never used over 500W                                              |
-| Drive:      | *Crucial CT1000P3P*            | NVME 1TB PCIE Gen4 QLC                                                                                                        |
-| Drive:      | *Crucial MX500SSD*             | SATA 500G                                                                                                                     |
-| Drive:      | *Micron  1100 SATA*            | SATA 2TB second handed                                                                                                        |
-| Drive:      | *Segate  ST4000NE*             | SATA 4TB emergency purchase                                                                                                   |
-| Drive:      | *HGST    HUH728080*            | SATA 8TB second handed                                                                                                        |
-| Drive:      | *Segate  ST10000NM*            | SATA 10TB second handed                                                                                                       |
-| Drive:      | *Samsung T5*                   | USBC 500GB                                                                                                                    |
-| Mouse:      | *G502 Proteus Core*            | You can buy replacement for every single part of it on Aliexpress, this means it never dies, incredibly high in value         |
+Game media values by its controls and interactivity. Here is a non-negotiable, fundamental checklist that covers the basic input elements for games.
+All points here are showstopper critical, missing one point means the game is fundamentally broken/unfinished for at least one input type.
+
+| Controller Support        | Requirement                                                                                                                                                | Present (Y/N/-) |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Bounce back mitigation    | The game mitigates joystick bounce back overshoot issue (unintended direction reverse), otherwise the game is totally unplayable be played with controller |                 |
+
+Strongly Recommended, if development time allows:
+- Turn off vibration if the game supports
+- Supports both XBOX and PlayStation controller types
+- Drift mitigation / center re-calibration sliders
+- Deadzone customization
+
+| Mouse Support             | Requirement                                                                                                                                                                                                                  | Present (Y/N/-) |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Mouse Look                | If the game character turns slowly, then mouse look view is free from character look/aim direction (character catches up to look direction), otherwise the player must move mouse constantly to keep turning (joystick look) |                 |
+| Mouse Acceleration toggle | The game demands correct, accurate aiming, and in-game mouse acceleration can at least be turned off                                                                                                                         |                 |
+| Mouse Smoothing toggle    | The game demands correct, accurate aiming, and in-game mouse smoothing can at least be turned off                                                                                                                            |                 |
+| Mouse Sensitivity         | The game demands correct, accurate aiming, and at least provides mouse sensitivity adjustments                                                                                                                               |                 |
+| Mouse-whell Consistency   | Mouse-whell scrolling does not trigger key-press, nor changing game settings, unless the player binds it manually                                                                                                            |                 |
+
+Strongly Recommended, if development time allows:
+- Raw mouse input, if demands accurate aiming
+- Mouse icon color is enough different from background, or having border/shadow to differentiate
+
+| Keyboard Support             | Requirement                                                                                                                                                                                                                                     | Present (Y/N/-) |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Exit Key Consistency         | Exit key (i.e., Esc on keyboard) could exit all menus, dialogs, pause game. i.e., not a second exit key, or a menu with close/cancel button that isn't exit-able by pressing exit key                                                           |                 |
+| Logical default key bindings | The game provides a default key-binding that is logically universal (i.e., for FPS and TPS, menu keys are on left side of WASD; weapons, interactions and gadgets are on right side of WASD, etc., unless due to obvious or well-though reason) |                 |
+
+| Universal Control Support                  | Requirement                                                                                                                                                                                                                 | Present (Y/N/-) |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-----------------|
+| Key-blocking Mechanic                      | Input blocking only occurs when visually obvious (e.g., reload animation) or with clear, immediate, and specific audio/visual feedback indicating why and which input is blocked                                            |                 |
+| Input-delay Mechanic                       | Minimal delay between input and action. Any intentional delay (e.g., charge attack, charge jump) must be visually obvious and predictable                                                                                   |                 |
+| Toggle/Hold Controls                       | State changing key actions (sprint, ADS, crouch, scope, etc.) can be set to Toggle or Hold individually                                                                                                                     |                 |
+| Key Remapping                              | The game demands correct, accurate keypress (manuvering, aiming, time-saving), with a working key remapping system (i.e., one key cannot bind to multiple actions, hint key conflict)                                       |                 |
+| Dialog fast-forwarding/skipping            | Dialogs can be skipped or fast-forwarded with a key press                                                                                                                                                                   |                 |
+| Cutscene pausing/skipping                  | All cutscenes can be either paused or skipped, unless shorter than 10 seconds                                                                                                                                               |                 |
+| Action Synchronization                     | All player-controlled action that takes time finishes honestly in the same time, or before the action animation completes                                                                                                   |                 |
+| Input Buffer / Priority-of-action Mechanic | The game has enemies that prevents player to complete an action (i.e., reloading, rehealing), implements a reasonable input buffer / pre-input context to cache an pending action, or overrides the current blocking action |                 |
+| No Menu Key-blocking                       | No key blocking anywhere in the menu, including menu-animations and startup logos                                                                                                                                           |                 |
 
 Here is an advanced honey lemon-zest brioche Tangzhong-based 80% hydration sourdough toast bread I've baked:
 - <img src="toastbread.jpg" width=600em alt="advanced honey lemon-zest brioche Tangzhong-based 80% hydration sourdough toast">

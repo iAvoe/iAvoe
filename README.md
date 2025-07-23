@@ -16,9 +16,10 @@ I could:
 Game media values by its controls and interactivity. Here is a non-negotiable, fundamental checklist that covers the basic input elements for games.
 All points here are showstopper critical, missing one point means the game is fundamentally broken/unfinished for at least one input type.
 
-| Controller Support        | Requirement                                                                                                                                    | Present (Y/N/-) |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Bounce back mitigation    | The game mitigates joystick bounce back overshoot issue (unintended direction reverse), otherwise the game is totally unplayable on controller |                 |
+| Controller Support     | Requirement                                                                                                                                    | Present (Y/N/-) |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Bounce back mitigation | The game mitigates joystick bounce back overshoot issue (unintended direction reverse), otherwise the game is totally unplayable on controller |                 |
+| Controller UI          | The UI menus are manipulated via joystick movement, LT/RT triggers, not indirectly manipulated by a cursor moved by joystick (mouse/touch UI)  |                 |
 
 Strongly Recommended, if development time allows:
 - Turn off vibration if the game supports

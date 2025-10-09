@@ -41,6 +41,7 @@ Strongly Recommended, if development time allows:
 
 | Keyboard Support             | Requirement                                                                                                                                                                                                                                  | Present (Y/N/-) |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Keyboard Sprint              | If the player character can sprint (run or move faster), then keyboard sprint (i.e., hold shift key or other combined input) must be implemented. Not only supporting joystick sprint (push joystick to furthest)                            |                 |
 | Exit Key Consistency         | Exit key (i.e., Esc on keyboard) could exit menus that shows up more than once, pause game. i.e., not a second exit key, or a menu with close/cancel button that isn't exit-able by pressing exit key                                        |                 |
 | Logical default key bindings | The game provides a default key-binding that is mostly logically universal (i.e., for WASD movement, menu keys are on the left side; weapons, interactions and gadgets on the right side, etc., unless due to obvious or well-though reason) |                 |
 

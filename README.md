@@ -1,15 +1,17 @@
 I could:
-- Manage enterprise networking & analyze security vulnerabilities
-- Manage media files with: FL Studio, After Effects, Premiere, PhotoShop, Audition, ffmpeg, x264, x265, svt-av1
-- Develop apps & scripts via Powershell, Shell, Batch, Python, Java, Javascript, C# (Windows Forms)
+- Manage enterprise networking & address security vulnerabilities
+- Manage Linux, Window Server Core, Cicso IOS, OpenWrt systems
+- Professionally handle all sorts of media files w/ professional tools: After Effects, Premiere, PhotoShop, Audition, ffmpeg, ffprobe, x264, x265, svt-av1, FL Studio (music production & mixing)
+- Develop apps & scripts via Powershell, Shell/Bash, Batch, Python, Java, C# (Windows Forms, WPF)
+- Develop effective designs, mockups, technical docs w/ user friendly, maintainable & stylish look
 - Complete functional and pretty UI designs for technical apps
-- Database management: mySQL, MSSQL, MongoDB
+- Develop apps that only use database as source, such as: mySQL, MSSQL, MongoDB
 - IoT programming: Android Studio (Java, empty views project), ESP32 IoT programming (C++)
-- Web Programming: ReactJS, React, PHP, webAPI
-- Compiling: MSVC, Windows sybsystem for Linux
-- Data analysis: Self taught, not professional, but I have some experience from evaluating video encoding results with a few metrics
-- Repair any electronics and perform rather complicated cooking and baking, as long as there is a guide
-- Build resonably configured custom PCs, virtual machines, android devices and servers
+- Web Programming: JS, React, ReactJS, PHP, webAPI, Laravel
+- Data analysis: Excel, Pyzo (matplotlib + scipy)
+- Repair stuffs
+- Build custom PCs
+- Use Git and GitHub (obviously)
 
 ### Game input control QA
 

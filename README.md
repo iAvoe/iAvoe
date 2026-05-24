@@ -7,7 +7,7 @@ I could:
 - Complete functional and pretty UI designs for technical apps
 - Develop apps that only use database as source, such as: mySQL, MSSQL, MongoDB
 - IoT programming: Android Studio (Java, empty views project), ESP32 IoT programming (C++)
-- Web Programming: JS, React, ReactJS, PHP, webAPI, Laravel
+- Web Programming: JS, React, ReactJS, PHP, webAPI, Laravel, NextJS
 - Data analysis: Excel, Pyzo (matplotlib + scipy)
 - Repair stuffs
 - Build custom PCs

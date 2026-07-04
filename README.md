@@ -23,11 +23,12 @@ All points here are showstopper critical, missing one point means the game is fu
 | Bounce back mitigation | The game requires quick reactions of player, and mitigates joystick bounce back overshoot issue (unintended direction reverse)                |                 |
 | Controller UI          | The UI menus are manipulated via joystick movement, LT/RT triggers, not indirectly manipulated by a cursor moved by joystick (mouse/touch UI) |                 |
 
-Strongly Recommended, if development time allows:
-- Turn off vibration if the game supports
+**Strongly Recommended, if development time allows:**
+- Turn off controller vibration (then consider intensity adjustment)
 - Supports both XBOX and PlayStation controller types
 - Drift mitigation / center re-calibration sliders
-- Deadzone customization
+- Joystick angle quantization customization (remap joystick angle to game character angle)
+- Deadzone customization to mitigate hardware/driver bugs
 
 | Mouse Support             | Requirement                                                                                                                                                                                                                  | Present (Y/N/-) |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
@@ -37,15 +38,15 @@ Strongly Recommended, if development time allows:
 | Mouse Sensitivity         | The game demands correct, accurate aiming, and at least provides mouse sensitivity adjustments                                                                                                                               |                 |
 | Mouse-whell Consistency   | Mouse-whell scrolling does not trigger key-press, nor changing game settings, unless the player binds it manually                                                                                                            |                 |
 
-Strongly Recommended, if development time allows:
+**Strongly Recommended, if development time allows:**
 - Raw mouse input, if demands accurate aiming
 - Mouse icon color is enough different from background, or having border/shadow to differentiate
 
-| Keyboard Support             | Requirement                                                                                                                                                                                                                                  | Present (Y/N/-) |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Keyboard Sprint              | If the player character can sprint (run or move faster), then keyboard sprint (i.e., hold shift key or other combined input) must be implemented. Not only supporting joystick sprint (push joystick to furthest)                            |                 |
-| Exit Key Consistency         | Exit key (i.e., Esc on keyboard) could exit menus that shows up more than once, pause game. i.e., not a second exit key, or a menu with close/cancel button that isn't exit-able by pressing exit key                                        |                 |
-| Logical default key bindings | The game provides a default key-binding that is mostly logically universal (i.e., for WASD movement, menu keys are on the left side; weapons, interactions and gadgets on the right side, etc., unless due to obvious or well-though reason) |                 |
+| Keyboard Support        | Requirement                                                                                                                                                                                                       | Present (Y/N/-) |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Keyboard Sprint         | If the player character can sprint (run or move faster), then keyboard sprint (i.e., hold shift key or other combined input) must be implemented. Not only supporting joystick sprint (push joystick to furthest) |                 |
+| Exit Key Consistency    | Exit key (i.e., Esc on keyboard) could exit menus that shows up more than once, pause game. i.e., not a second exit key, or a menu with close/cancel button that isn't exit-able by pressing exit key             |                 |
+| Scientific key bindings | Default keybinding has been play-tested by beating the highest action difficulty challenge in the game consistently                                                                                               |                 |
 
 | Universal Control Support                  | Requirement                                                                                                                                                                                                                 | Present (Y/N/-) |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-----------------|
@@ -54,7 +55,6 @@ Strongly Recommended, if development time allows:
 | Toggle/Hold Controls                       | State changing key actions (sprint, ADS, crouch, scope, etc.) can be set to Toggle or Hold individually                                                                                                                     |                 |
 | Key Remapping                              | The game demands correct, accurate keypress (manuvering, aiming, time-saving), with a working key remapping system (i.e., one key cannot bind to multiple actions, hint key conflict)                                       |                 |
 | Dialog fast-forwarding/skipping            | Dialogs can be skipped or fast-forwarded with a key press                                                                                                                                                                   |                 |
-| Cutscene pausing/skipping                  | All cutscenes can be either paused or skipped, unless shorter than 10 seconds                                                                                                                                               |                 |
 | Action Synchronization                     | All player-controlled action that takes time finishes honestly in the same time, or before the action animation completes                                                                                                   |                 |
 | Input Buffer / Priority-of-action Mechanic | The game has enemies that prevents player to complete an action (i.e., reloading, rehealing), implements a reasonable input buffer / pre-input context to cache an pending action, or overrides the current blocking action |                 |
 | No Menu Key-blocking                       | No key blocking anywhere in the menu, including menu-animations and startup logos                                                                                                                                           |                 |

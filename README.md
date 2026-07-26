@@ -18,10 +18,11 @@ I could:
 Game media values by its controls and interactivity. Here is a non-negotiable, fundamental checklist that covers the basic input elements for games.
 All points here are showstopper critical, missing one point means the game is fundamentally broken/unfinished for at least one input type.
 
-| Controller Support     | Requirement                                                                                                                                   | Present (Y/N/-) |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| Bounce back mitigation | The game requires quick reactions of player, and mitigates joystick bounce back overshoot issue (unintended direction reverse)                |                 |
-| Controller UI          | The UI menus are manipulated via joystick movement, LT/RT triggers, not indirectly manipulated by a cursor moved by joystick (mouse/touch UI) |                 |
+| Controller Support              | Requirement                                                                                                                                                                  | Present (Y/N/-) |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Joystick bounce back mitigation | Joystick bounce back overshoot does not cause unintended direction reverse                                                                                                   |                 |
+| Controller UI                   | The UI menus are manipulated via joystick movement, LT/RT triggers, not indirectly manipulated by a cursor moved by joystick (mouse/touch UI)                                |                 |
+| Controller direction inverse    | No quick chaining of instaneous direction reverse in gameplay (↔ or ↕), the long travel time of joystick does not allow it, games usually fail this on key-combo platforming |                 |
 
 **Strongly Recommended, if development time allows:**
 - Turn off controller vibration (then consider intensity adjustment)

@@ -38,7 +38,7 @@ All points here are showstopper critical, missing one point means the game is fu
 | Mouse Smoothing toggle    | The game demands correct, accurate aiming, and in-game mouse smoothing can at least be turned off                                                                                                                            |                 |
 | Mouse Sensitivity         | The game demands correct, accurate aiming, and at least provides mouse sensitivity adjustments                                                                                                                               |                 |
 | Mouse-whell Consistency   | Mouse-whell scrolling does not trigger key-press, nor changing game settings, unless the player binds it manually                                                                                                            |                 |
-| Sensitivity Step-size     | Mouse sensitivity step size is <= 2, ideally float point below 1, so all computer mice from 400~16000 DPI (40x scaling) are usable, this also mitigates controller sensitivity, which often requires much higher sensitivity |                 |
+| DPI Compatibility         | Mouse sensitivity setting step size is <= 2, ideally float point, so mice ranging at least 400~16000 DPI (40x gap) are supported, this also mitigates controller sensitivity, which often requires much higher sensitivity   |                 |
 
 **Strongly Recommended, if development time allows:**
 - Raw mouse input, if demands accurate aiming
